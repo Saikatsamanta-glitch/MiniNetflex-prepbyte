@@ -4,6 +4,13 @@ import Home from './Pages/Home';
 import Player from './Pages/Player';
 import {Routes, Route, BrowserRouter} from 'react-router-dom';
 import Notfound from './Pages/Notfound';
+
+
+
+
+
+
+
 function App() {
   return (
     <BrowserRouter>
